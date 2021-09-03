@@ -1,7 +1,7 @@
 {
   "name": "jp.shiranui-isuzu.toon-shader",
   "displayName": "Isuzu Toon Shader URP",
-  "version": "0.8.0-preview.2",
+  "version": "0.8.0-preview.3",
   "author": "Shiranui_Isuzu",
   "unity": "2021.2",
   "description": "URP Toon Shader and PostProcessEffect.",

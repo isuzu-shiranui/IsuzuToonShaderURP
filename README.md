@@ -12,7 +12,7 @@ Open ```Packages/manifest.json``` and add this.
 ```
 
 ### Features
-![](Documentation~\Images\Inspector.png)
+![](./Documentation~/Images/Inspector.png)
 
 * alpha support
 * 2 step shadow
