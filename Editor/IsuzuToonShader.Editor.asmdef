@@ -1,0 +1,21 @@
+{
+    "name": "IsuzuToonShader.Editor",
+    "rootNamespace": "IsuzuToonShaderURP.Editor",
+    "references": [
+        "GUID:6df69e43d0136c64a932ddf047d98c12",
+        "GUID:3eae0364be2026648bf74846acb8a731",
+        "GUID:c579267770062bf448e75eb160330b7f",
+        "GUID:df380645f10b7bc4b97d4f5eb6303d95"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
